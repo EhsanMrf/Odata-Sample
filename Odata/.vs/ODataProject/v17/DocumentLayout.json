@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA66292-866C-42BF-BA6A-6A1058EE74DC}|ODataProject\\ODataProject.csproj|c:\\users\\ehsan\\desktop\\odataproject\\odataproject\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA66292-866C-42BF-BA6A-6A1058EE74DC}|ODataProject\\ODataProject.csproj|solutionrelative:odataproject\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA66292-866C-42BF-BA6A-6A1058EE74DC}|ODataProject\\ODataProject.csproj|c:\\users\\ehsan\\desktop\\odataproject\\odataproject\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA66292-866C-42BF-BA6A-6A1058EE74DC}|ODataProject\\ODataProject.csproj|solutionrelative:odataproject\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272FF4B2-945B-4DA9-B66A-7141A07622AB}|Odata.Application\\Odata.Application.csproj|c:\\users\\ehsan\\desktop\\odataproject\\odata.application\\service\\areaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272FF4B2-945B-4DA9-B66A-7141A07622AB}|Odata.Application\\Odata.Application.csproj|solutionrelative:odata.application\\service\\areaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0672C4F8-6C87-49FF-B214-03CB7CCFB1CF}|Persistence.EF\\Persistence.EF.csproj|c:\\users\\ehsan\\desktop\\odataproject\\persistence.ef\\repository\\arerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0672C4F8-6C87-49FF-B214-03CB7CCFB1CF}|Persistence.EF\\Persistence.EF.csproj|solutionrelative:persistence.ef\\repository\\arerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F1BEE4-9D87-45B9-97EE-1A14C4530064}|Utility\\Utility.csproj|c:\\users\\ehsan\\desktop\\odataproject\\utility\\response\\queryextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F1BEE4-9D87-45B9-97EE-1A14C4530064}|Utility\\Utility.csproj|solutionrelative:utility\\response\\queryextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DF2655-6D6A-4DC4-A2ED-AD604383B1E4}|Domain\\Domain.csproj|c:\\users\\ehsan\\desktop\\odataproject\\domain\\model\\areaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DF2655-6D6A-4DC4-A2ED-AD604383B1E4}|Domain\\Domain.csproj|solutionrelative:domain\\model\\areaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DF2655-6D6A-4DC4-A2ED-AD604383B1E4}|Domain\\Domain.csproj|c:\\users\\ehsan\\desktop\\odataproject\\domain\\model\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DF2655-6D6A-4DC4-A2ED-AD604383B1E4}|Domain\\Domain.csproj|solutionrelative:domain\\model\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0672C4F8-6C87-49FF-B214-03CB7CCFB1CF}|Persistence.EF\\Persistence.EF.csproj|c:\\users\\ehsan\\desktop\\odataproject\\persistence.ef\\odatadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0672C4F8-6C87-49FF-B214-03CB7CCFB1CF}|Persistence.EF\\Persistence.EF.csproj|solutionrelative:persistence.ef\\odatadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8166A172-943E-40C9-B318-107017A2848C}|Odata.Contract\\Odata.Contract.csproj|c:\\users\\ehsan\\desktop\\odataproject\\odata.contract\\interface\\iareaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8166A172-943E-40C9-B318-107017A2848C}|Odata.Contract\\Odata.Contract.csproj|solutionrelative:odata.contract\\interface\\iareaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA66292-866C-42BF-BA6A-6A1058EE74DC}|ODataProject\\ODataProject.csproj|c:\\users\\ehsan\\desktop\\odataproject\\odataproject\\providerextensions\\serviceproviderserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA66292-866C-42BF-BA6A-6A1058EE74DC}|ODataProject\\ODataProject.csproj|solutionrelative:odataproject\\providerextensions\\serviceproviderserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\ODataProject\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ODataProject\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\ODataProject\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "ODataProject\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:40:37.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Domain\\Model\\Area.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Area.cs",
+              "ToolTip": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Domain\\Model\\Area.cs",
+              "RelativeToolTip": "Domain\\Model\\Area.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwDUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:40:30.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OdataDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Persistence.EF\\OdataDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence.EF\\OdataDbContext.cs",
+              "ToolTip": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Persistence.EF\\OdataDbContext.cs",
+              "RelativeToolTip": "Persistence.EF\\OdataDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vw4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:05:16.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AreaService.cs",
+              "DocumentMoniker": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Odata.Application\\Service\\AreaService.cs",
+              "RelativeDocumentMoniker": "Odata.Application\\Service\\AreaService.cs",
+              "ToolTip": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Odata.Application\\Service\\AreaService.cs",
+              "RelativeToolTip": "Odata.Application\\Service\\AreaService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:05:09.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Persistence.EF\\Repository\\AreRepository.cs",
+              "RelativeDocumentMoniker": "Persistence.EF\\Repository\\AreRepository.cs",
+              "ToolTip": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Persistence.EF\\Repository\\AreRepository.cs",
+              "RelativeToolTip": "Persistence.EF\\Repository\\AreRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:51:25.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueryExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Utility\\Response\\QueryExtension.cs",
+              "RelativeDocumentMoniker": "Utility\\Response\\QueryExtension.cs",
+              "ToolTip": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Utility\\Response\\QueryExtension.cs",
+              "RelativeToolTip": "Utility\\Response\\QueryExtension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:06:35.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AreaController.cs",
+              "DocumentMoniker": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\ODataProject\\Controllers\\AreaController.cs",
+              "RelativeDocumentMoniker": "ODataProject\\Controllers\\AreaController.cs",
+              "ToolTip": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\ODataProject\\Controllers\\AreaController.cs",
+              "RelativeToolTip": "ODataProject\\Controllers\\AreaController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAEwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:48:31.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AreaException.cs",
+              "DocumentMoniker": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Domain\\Model\\AreaException.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\AreaException.cs",
+              "ToolTip": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Domain\\Model\\AreaException.cs",
+              "RelativeToolTip": "Domain\\Model\\AreaException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:40:33.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAreaService.cs",
+              "DocumentMoniker": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Odata.Contract\\Interface\\IAreaService.cs",
+              "RelativeDocumentMoniker": "Odata.Contract\\Interface\\IAreaService.cs",
+              "ToolTip": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\Odata.Contract\\Interface\\IAreaService.cs",
+              "RelativeToolTip": "Odata.Contract\\Interface\\IAreaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:50:25.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceProviderServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\ODataProject\\ProviderExtensions\\ServiceProviderServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ODataProject\\ProviderExtensions\\ServiceProviderServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Ehsan\\Desktop\\ODataProject\\ODataProject\\ProviderExtensions\\ServiceProviderServiceExtensions.cs",
+              "RelativeToolTip": "ODataProject\\ProviderExtensions\\ServiceProviderServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:50:50.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

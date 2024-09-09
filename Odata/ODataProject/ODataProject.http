@@ -1,0 +1,6 @@
+@ODataProject_HostAddress = http://localhost:5147
+
+GET {{ODataProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

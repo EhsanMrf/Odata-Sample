@@ -1,0 +1,5 @@
+C:\Users\Ehsan\Desktop\ODataProject\Odata.Config\obj\Debug\net8.0\Odata.Config.csproj.AssemblyReference.cache
+C:\Users\Ehsan\Desktop\ODataProject\Odata.Config\obj\Debug\net8.0\Odata.Config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ehsan\Desktop\ODataProject\Odata.Config\obj\Debug\net8.0\Odata.Config.AssemblyInfoInputs.cache
+C:\Users\Ehsan\Desktop\ODataProject\Odata.Config\obj\Debug\net8.0\Odata.Config.AssemblyInfo.cs
+C:\Users\Ehsan\Desktop\ODataProject\Odata.Config\obj\Debug\net8.0\Odata.Config.csproj.CoreCompileInputs.cache
